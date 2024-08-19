@@ -1,0 +1,26 @@
+Useful links:
+
+All hands-on exercises: https://microsoftlearning.github.io/mslearn-azure-ml/. Some of the links here
+
+https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/02-Explore-developer-tools.html
+
+https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/02-Explore-Azure-Machine-Learning.html
+
+https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/03-Make-data-available.html
+
+https://microsoftlearning.github.io/mslearn-azure-ml/Instructions/04-Work-with-environments.html
+
+
+Install the Azure CLI first. This is needed to authenticate to the Azure portal from the laptop
+
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+For Mac: brew update && brew install azure-cli
+
+After installing, run "az login" from any terminal. This will open a web browser tab for you to authenticate
+Once authenticated, you can run Labs/02/*.ipynb
+
+Using python3.11 (3.11.6)
+Creating virtualenv mslearn-azure-ml-Jf33lX9v-py3.11 in /Users/<username>/Library/Caches/pypoetry/virtualenvs
+Building mslearn-azure-ml (0.1.0)
+
+
